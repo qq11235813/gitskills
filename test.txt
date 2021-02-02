@@ -2,3 +2,4 @@ i am a test file.
 Creating a new branch is quick and simple.
 do some change.
 fixed a bug.
+i will be stash.
